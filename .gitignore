@@ -1,0 +1,13 @@
+venv/
+env/
+
+data/
+acessos.log
+bem_vindo_*.txt
+
+build/
+dist/
+*.spec
+
+__pycache__/
+*.pyc
